@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(249, 225, 169);
+  text-align: center;
+
+  display: block;
+  margin: 8px;
+}
+a {
+  color: green;
+  margin: 10px;
+}
+.croissant-photo {
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
+}
+.hello {
+  color: blue;
+  margin: 0;
+}
